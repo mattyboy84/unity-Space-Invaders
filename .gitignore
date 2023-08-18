@@ -6,3 +6,4 @@ Library
 Assembly-CSharp.csproj
 .vsconfig
 Space-Invaders.sln
+obj

@@ -1,4 +1,4 @@
-# Unity Snake  
+# Unity Space Invaders  
 
 Space Invaders made in Unity
 
